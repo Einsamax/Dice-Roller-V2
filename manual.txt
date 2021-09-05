@@ -1,0 +1,8 @@
+9/4/21
+
+This is an updated dice roller that allows you to roll any number of D2, D3, D4, D6, D8, D10, D12, D20, and D100 dice that you wish. 
+This version is improved as there is less code, making use of functions and splicing. I also used two while loops to ensure proper inputs are selected.
+
+With love,
+Elliot
+
